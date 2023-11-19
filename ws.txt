@@ -16,6 +16,7 @@ https://www.studocu.com/in/messages/question/4043513/capture-packets-using-wires
 ssl.handshake.type == 1 (client hello)
 ssl.handshake.type == 2 (server hello)
 ssl.handshake.type == 16 (client key exchange)
+ssl.handshake.type == 11 (certificate)
 ssl.record.content_type == 21 (alert)
 
 
