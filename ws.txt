@@ -27,3 +27,5 @@ THEORY:
     SYN and PSH: A SYN packet is typically part of the connection initiation process, and it doesn't usually contain application data (PSH).
 
     PSH and RST: It's unusual to have a packet both pushing data to the application (PSH) and resetting the connection (RST) at the same time.
+
+https://aidscode.netlify.app/
